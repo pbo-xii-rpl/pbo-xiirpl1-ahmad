@@ -1,9 +1,9 @@
-import ItemNav from "./ItemNav";
+import NavItem from "./NavItem";
 
 function Nav() {
 	return (
 			<div className="nav text-center">
-				<ItemNav/>
+				<NavItem/>
 			</div>
 	);
 }

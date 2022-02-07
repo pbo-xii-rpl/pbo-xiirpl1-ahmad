@@ -22,7 +22,7 @@ function NavItem(){
 						</a>
 					</li>
 				</ul>
-    );
+    )
 }
 
 export default NavItem;
